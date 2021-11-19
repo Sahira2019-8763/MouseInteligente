@@ -12,7 +12,7 @@ mp_hands = mp.solutions.hands
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 color_mouse_pointer = (255, 0, 255)
 
-#Variables que definen el tamaño de la pantalla del juego
+#Variables que definen el tamaño de la pantalla del juegoo
 SCREEN_GAME_X_INI = 120
 SCREEN_GAME_Y_INI = 128
 SCREEN_GAME_X_FIN = 120 + 621
